@@ -24,8 +24,5 @@
   "bugs": {
     "url": "https://github.com/jpmedley/webxr-glitch/issues"
   },
-  "homepage": "https://github.com/jpmedley/webxr-glitch#readme",
-  "dependencies": {
-    "http-server": "^0.11.1"
-  }
+  "homepage": "https://github.com/jpmedley/webxr-glitch#readme"
 }
